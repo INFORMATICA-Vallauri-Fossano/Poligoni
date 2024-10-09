@@ -1,0 +1,10 @@
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\bin\Debug\EsPoligoniAnrangoRamosGionsi.exe.config
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\bin\Debug\EsPoligoniAnrangoRamosGionsi.exe
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\bin\Debug\EsPoligoniAnrangoRamosGionsi.pdb
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.csproj.AssemblyReference.cache
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.Form1.resources
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.Properties.Resources.resources
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.csproj.GenerateResource.cache
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.csproj.CoreCompileInputs.cache
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.exe
+C:\Users\achar\Desktop\Poligoni\EsPoligoniAnrangoRamosGionsi\obj\Debug\EsPoligoniAnrangoRamosGionsi.pdb

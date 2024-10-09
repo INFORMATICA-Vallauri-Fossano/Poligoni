@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|c:\\users\\achar\\desktop\\poligoni\\espoligonianrangoramosgionsi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|c:\\users\\achar\\desktop\\poligoni\\espoligonianrangoramosgionsi\\clsquadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|solutionrelative:clsquadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|c:\\users\\achar\\desktop\\poligoni\\espoligonianrangoramosgionsi\\clstriangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|solutionrelative:clstriangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|c:\\users\\achar\\desktop\\poligoni\\espoligonianrangoramosgionsi\\clsennagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|solutionrelative:clsennagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|c:\\users\\achar\\desktop\\poligoni\\espoligonianrangoramosgionsi\\clspoligonoregolare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|solutionrelative:clspoligonoregolare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|c:\\users\\achar\\desktop\\poligoni\\espoligonianrangoramosgionsi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51CB3B4-96B2-430F-AE46-62E174193425}|EsPoligoniAnrangoRamosGionsi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:19:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsEnnagono.cs",
+              "DocumentMoniker": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsEnnagono.cs",
+              "RelativeDocumentMoniker": "clsEnnagono.cs",
+              "ToolTip": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsEnnagono.cs",
+              "RelativeToolTip": "clsEnnagono.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:02:52.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsQuadrato.cs",
+              "DocumentMoniker": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsQuadrato.cs",
+              "RelativeDocumentMoniker": "clsQuadrato.cs",
+              "ToolTip": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsQuadrato.cs",
+              "RelativeToolTip": "clsQuadrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:59:39.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsTriangolo.cs",
+              "DocumentMoniker": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsTriangolo.cs",
+              "RelativeDocumentMoniker": "clsTriangolo.cs",
+              "ToolTip": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsTriangolo.cs",
+              "RelativeToolTip": "clsTriangolo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:52:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPoligonoRegolare.cs",
+              "DocumentMoniker": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsPoligonoRegolare.cs",
+              "RelativeDocumentMoniker": "clsPoligonoRegolare.cs",
+              "ToolTip": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\clsPoligonoRegolare.cs",
+              "RelativeToolTip": "clsPoligonoRegolare.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:39:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\achar\\Desktop\\Poligoni\\EsPoligoniAnrangoRamosGionsi\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:38:56.384Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
