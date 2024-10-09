@@ -70,7 +70,7 @@
             this.nudNumeroLati.Location = new System.Drawing.Point(12, 90);
             this.nudNumeroLati.Name = "nudNumeroLati";
             this.nudNumeroLati.Size = new System.Drawing.Size(120, 22);
-            this.nudNumeroLati.TabIndex = 2;
+            this.nudNumeroLati.TabIndex = 1;
             this.nudNumeroLati.ValueChanged += new System.EventHandler(this.nudNumeroLati_ValueChanged);
             // 
             // label1
@@ -97,7 +97,7 @@
             this.txtApotema.Location = new System.Drawing.Point(12, 165);
             this.txtApotema.Name = "txtApotema";
             this.txtApotema.Size = new System.Drawing.Size(165, 22);
-            this.txtApotema.TabIndex = 5;
+            this.txtApotema.TabIndex = 2;
             // 
             // lblApotema
             // 
@@ -125,14 +125,14 @@
             this.txtAltezza.Location = new System.Drawing.Point(12, 209);
             this.txtAltezza.Name = "txtAltezza";
             this.txtAltezza.Size = new System.Drawing.Size(165, 22);
-            this.txtAltezza.TabIndex = 7;
+            this.txtAltezza.TabIndex = 3;
             // 
             // btnInserisciPoligono
             // 
             this.btnInserisciPoligono.Location = new System.Drawing.Point(202, 12);
             this.btnInserisciPoligono.Name = "btnInserisciPoligono";
             this.btnInserisciPoligono.Size = new System.Drawing.Size(120, 41);
-            this.btnInserisciPoligono.TabIndex = 9;
+            this.btnInserisciPoligono.TabIndex = 4;
             this.btnInserisciPoligono.Text = "INSERISCI";
             this.btnInserisciPoligono.UseVisualStyleBackColor = true;
             this.btnInserisciPoligono.Click += new System.EventHandler(this.btnInserisciPoligono_Click);
@@ -141,7 +141,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 326);
             this.Controls.Add(this.btnInserisciPoligono);
             this.Controls.Add(this.lblAltezza);
             this.Controls.Add(this.txtAltezza);
@@ -153,7 +153,7 @@
             this.Controls.Add(this.dgvProperties);
             this.Controls.Add(this.txtLunghezzalato);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Poligoni Regolari";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudNumeroLati)).EndInit();
